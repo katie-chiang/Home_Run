@@ -1,0 +1,10 @@
+Depth = 9;
+Width = 3;
+Address_radix=hex;
+Data_radix=bin;
+Content
+BEGIN
+	0:	011 000 011;
+	3:	000 111 000;
+	6:	011 000 011;
+END;
